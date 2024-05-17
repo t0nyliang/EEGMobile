@@ -1,0 +1,6 @@
+pandas
+numpy 
+scipy
+transformers
+tqdm
+pytorch_tcn
